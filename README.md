@@ -94,3 +94,6 @@ try {
 - Add more posts or enhance the layout and styling in `src/css/`.
 
 If you want, I can implement any of those improvements — tell me which one and I'll make the change.
+
+Bronen:
+https://11ty.rocks/posts/create-your-first-basic-11ty-website/
